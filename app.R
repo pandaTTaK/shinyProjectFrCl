@@ -13,7 +13,7 @@ library(DT)
 library(RMySQL)
 library(glue)
 
-con <- dbConnect(MySQL(), host="localhost", user="root", password="fWpouIc+Pa5@tZ2", 
+con <- dbConnect(MySQL(), host="localhost", user="root", password="", 
                  dbname="evaluation")
 
 
